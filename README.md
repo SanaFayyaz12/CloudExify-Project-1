@@ -2,8 +2,8 @@
 
 **CloudExify Python Internship 2026 — Month 1, Project 1**
 
-**Name:** [Apna naam yahan likhein]
-**Registration No:** CX-2026-XXXX
+**Name:** Sana Fayyaz
+**Registration No:** CX-INT-2026-DS-0120
 
 ## 📌 Description
 A command-line Python application to track daily personal expenses. Users can add
